@@ -27,6 +27,9 @@
     <label for="Mother-sirname"><b>Mother-sirname</b></label>
     <input type="Mother-sirname" placeholder="Enter Mother-sirname" name="mother-sirname" id="mother-sirname" required>
 
+    <label for="Sister"><b>Sister</b></label>
+    <input type="text" placeholder="Enter Sister" name="Sister" id="Sister" required>
+
 
     <hr>
 

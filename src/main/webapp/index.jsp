@@ -28,8 +28,6 @@
     <input type="Mother-sirname" placeholder="Enter Mother-sirname" name="mother-sirname" id="mother-sirname" required>
 
 
-    <label for="Father"><b>Father-sirname</b></label>
-    <input type="text" placeholder="Enter Mother-sirname" name="mother-sirname" id="mother-sirname" required>
 
 
 

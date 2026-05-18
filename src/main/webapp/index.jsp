@@ -30,8 +30,6 @@
     <label for="father-sirname"><b>Father-sirname</b></label>
     <input type="text" placeholder="Enter Mother-sirname" name="mother-sirname" id="mother-sirname" required>
 
-    <label for="Brother"><b>Brother</b></label>
-    <input type="text" placeholder="Enter Brother" name="Brother" id="Brother" required>
 
 
     <hr>

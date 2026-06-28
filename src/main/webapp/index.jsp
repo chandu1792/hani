@@ -13,7 +13,7 @@
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
-    <h1> helo chandu </h1>
+    <h1> helo chandu where are you </h1>
 
     <p>By creating an new  account you should agree to  <a href="#">Terms & Privacy </a></p>
     <button type="submit" class="registerbtn">Register</button>
